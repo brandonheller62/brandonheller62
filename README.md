@@ -21,10 +21,14 @@ Long before I wrote software, I was building things to help people. In 2018, as 
 elementary schooler, I founded **[Cancer Care Baskets](https://cancercarebaskets.org)**
 in memory of my great-grandmother — curating comfort care baskets for breast cancer
 patients at Mount Sinai Comprehensive Cancer Center. Eight years and **1,000+ baskets**
-later, it's still running, and it became deeply personal when my grandmother and mom
-went through their own treatment.
+later, it's still running and still evolving, and it became deeply personal when my
+grandmother and mom went through their own treatment.
 
-It's the same instinct behind everything else here: find people who are struggling, and
+I run it end to end, on my own: I built and maintain the website, shaped the brand, and —
+the part I'm proudest of as a future data scientist — I survey patients and analyze their
+feedback to decide what actually goes in each basket. It's where I first learned to build
+software and to let data guide a decision, years before I had names for either. The AI
+tools below are the same instinct with sharper tools: find people who are struggling, and
 build something that helps. *Comfort & hope, one basket at a time.*
 
 ---
