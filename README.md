@@ -80,6 +80,5 @@ learning, and study data science and AI in depth.
 
 - 🌐 Live project: [ransomtutor.vercel.app](https://ransomtutor.vercel.app)
 - 📧 brandonheller62@gmail.com
-- 💼 LinkedIn: *add your link*
 
 *Building tools I wish I'd had as a student.*
