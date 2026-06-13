@@ -1,6 +1,8 @@
 ## Hi, I'm Brandon 👋
 
-I'm a high school student building AI tools that help people *learn*, not just get answers.
+I've spent the last eight years building things that help people — first a nonprofit, now
+AI tools for students. Today I build AI software that helps people *learn*, not just get
+answers.
 
 Most "AI tutors" hand you the solution. I'm more interested in the harder problem:
 software that teaches the way a good teacher does — asking the right question at the
@@ -10,6 +12,20 @@ production, and I care as much about the pedagogy as the code.
 
 My focus areas: **applied AI, education technology, and full-stack engineering** — with
 an eye toward studying Data Science / AI in college.
+
+---
+
+### 💛 Beyond code
+
+Long before I wrote software, I was building things to help people. In 2018, as an
+elementary schooler, I founded **[Cancer Care Baskets](https://cancercarebaskets.org)**
+in memory of my great-grandmother — curating comfort care baskets for breast cancer
+patients at Mount Sinai Comprehensive Cancer Center. Eight years and **1,000+ baskets**
+later, it's still running, and it became deeply personal when my grandmother and mom
+went through their own treatment.
+
+It's the same instinct behind everything else here: find people who are struggling, and
+build something that helps. *Comfort & hope, one basket at a time.*
 
 ---
 
