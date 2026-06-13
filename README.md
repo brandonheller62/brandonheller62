@@ -10,7 +10,7 @@ right moment, meeting a student where they are, and grounding every explanation 
 material they're actually studying. I build, ship, and maintain these tools in
 production, and I care as much about the pedagogy as the code.
 
-My focus areas: **applied AI, education technology, and full-stack engineering** — with
+My focus areas: **AI+ML and education technology** — with
 an eye toward studying Data Science / AI in college.
 
 ---
@@ -38,6 +38,7 @@ build something that helps. *Comfort & hope, one basket at a time.*
   AP Calculus AB students.
 - Learning how to make AI systems reliable: evaluation, retrieval quality, latency, and
   the difference between a demo and something people can actually depend on.
+- Constantly updating **Cancer Care Baskets** based on new data.
 
 ---
 
