@@ -10,7 +10,7 @@ right moment, meeting a student where they are, and grounding every explanation 
 material they're actually studying. I build, ship, and maintain these tools in
 production, and I care as much about the pedagogy as the code.
 
-My focus areas: **AI+ML and education technology** — with
+My focus areas: **AI/ML in education and Data Science** — with
 an eye toward studying Data Science / AI in college.
 
 ---
