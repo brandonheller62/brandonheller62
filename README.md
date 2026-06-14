@@ -26,7 +26,8 @@ grandmother and mom went through their own treatment.
 
 I run it end to end, on my own: I built and maintain the website, shaped the brand, and —
 the part I'm proudest of as a future data scientist — I survey patients and analyze their
-feedback to decide what actually goes in each basket. It's where I first learned to build
+feedback (now through a [live analytics dashboard](https://github.com/brandonheller62/ccb-survey-dashboard)
+I built and embedded on our site) to decide what actually goes in each basket. It's where I first learned to build
 software and to let data guide a decision, years before I had names for either. The AI
 tools below are the same instinct with sharper tools: find people who are struggling, and
 build something that helps. *Comfort & hope, one basket at a time.*
@@ -69,15 +70,26 @@ tests, not just memorized procedures.
 
 `Next.js · TypeScript · LLM-powered tutoring`
 
+#### [CCB Survey Analytics Dashboard](https://github.com/brandonheller62/ccb-survey-dashboard) · [Live demo →](https://ccb-survey-dashboard.vercel.app)
+A live analytics dashboard for my nonprofit, **Cancer Care Baskets**, that turns patient
+feedback surveys into the charts that decide what goes in the next care basket. It reads
+responses straight from a private Google Sheet through a serverless function — patient
+free-text is stripped server-side for privacy — and is **embedded directly on
+cancercarebaskets.org**, so the charts update themselves as new responses arrive. The data
+work I'd been doing by hand for years, now automated end to end.
+
+`React · Vite · Recharts · Google Sheets API · Vercel serverless · Tailwind`
+
 ---
 
 ### 🛠️ Technologies I work with
 
 **Languages** — TypeScript, JavaScript, Python, SQL
-**Frameworks** — Next.js, React, Node.js, Tailwind CSS
+**Frameworks** — Next.js, React, Vite, Node.js, Tailwind CSS
 **AI / Data** — Anthropic Claude & OpenAI APIs, retrieval-augmented generation (RAG),
-vector search (pgvector), embeddings, prompt design
-**Infrastructure** — Supabase, Vercel, Git
+vector search (pgvector), embeddings, prompt design, data visualization (Recharts),
+Google Sheets API
+**Infrastructure** — Supabase, Vercel, Netlify, Git
 
 I'm comfortable owning a project end to end — from the data and AI layer to the UI a
 student actually clicks on.
