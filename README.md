@@ -84,7 +84,7 @@ work I'd been doing by hand for years, now automated end to end.
 
 ### 🛠️ Technologies I work with
 
-**Languages** — TypeScript, JavaScript, Python, SQL
+**Languages** — TypeScript, JavaScript, Python, SQL, R
 **Frameworks** — Next.js, React, Vite, Node.js, Tailwind CSS
 **AI / Data** — Anthropic Claude & OpenAI APIs, retrieval-augmented generation (RAG),
 vector search (pgvector), embeddings, prompt design, data visualization (Recharts),
