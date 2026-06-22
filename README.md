@@ -1,17 +1,10 @@
 ## Hi, I'm Brandon 👋
 
-I've spent the last eight years building things that help people — first a nonprofit, now
-AI tools for students. Today I build AI software that helps people *learn*, not just get
-answers.
+I've spent the last eight years building things that help people - first a nonprofit, now AI tools for students. Today I build AI software that helps people *learn*, not just get answers.
 
-Most "AI tutors" hand you the solution. I'm more interested in the harder problem:
-software that teaches the way a good teacher does — asking the right question at the
-right moment, meeting a student where they are, and grounding every explanation in the
-material they're actually studying. I build, ship, and maintain these tools in
-production, and I care as much about the pedagogy as the code.
+Most "AI tutors" hand you the solution. I'm more interested in the harder problem: software that teaches the way a good teacher does, asking the right question at the right moment, meeting a student where they are, and grounding every explanation in the material they're actually studying. I build, ship, and maintain these tools in production, and I care as much about the pedagogy as the code.
 
-My focus areas: **AI/ML in education and Data Science** — with
-an eye toward studying Data Science / AI in college.
+My focus areas: **AI/ML in education and Data Science**, with an eye toward studying Data Science / AI in college.
 
 ---
 
