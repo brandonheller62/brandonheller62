@@ -1,4 +1,4 @@
-## Hi, I'm Brandon 👋
+## Hi, I'm Brandon
 
 I've spent the last eight years building things that help people - first a nonprofit, now AI tools for students. Today I build AI software that helps people *learn*, not just get answers.
 
@@ -8,7 +8,7 @@ My focus areas: **AI/ML in education and Data Science**, with an eye toward stud
 
 ---
 
-### 💛 Beyond code
+### Beyond code
 
 Long before I wrote software, I was building things to help people. In 2018, as an
 elementary schooler, I founded **[Cancer Care Baskets](https://cancercarebaskets.org)**
@@ -27,7 +27,7 @@ build something that helps. *Comfort & hope, one basket at a time.*
 
 ---
 
-### 🔭 What I'm working on right now
+### What I'm working on right now
 
 - Running and improving **Ransom Tutor** in production — a retrieval-augmented Socratic
   tutor used for real coursework, where the hard part is keeping answers *grounded* in
@@ -40,7 +40,7 @@ build something that helps. *Comfort & hope, one basket at a time.*
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 #### [Ransom Tutor](https://github.com/brandonheller62/ransom-tutor) · [Live demo →](https://ransomtutor.vercel.app)
 An AI Socratic tutor for two real high-school courses — Advanced Physics (Mechanics) and
@@ -75,7 +75,7 @@ work I'd been doing by hand for years, now automated end to end.
 
 ---
 
-### 🛠️ Technologies I work with
+### Technologies I work with
 
 **Languages** — TypeScript, JavaScript, Python, SQL, R
 **Frameworks** — Next.js, React, Vite, Node.js, Tailwind CSS
@@ -89,7 +89,7 @@ student actually clicks on.
 
 ---
 
-### 🎯 What I'm curious about
+### What I'm curious about
 
 - How AI can give every student a patient, personal tutor — and what good teaching even
   *means* when you try to encode it in software.
@@ -102,7 +102,7 @@ learning, and study data science and AI in depth.
 
 ---
 
-### 📫 Reach me
+### Reach me
 
 - 🌐 Live projects: [ransomtutor.vercel.app](https://ransomtutor.vercel.app), [cancercarebaskets.org](https://cancercarebaskets.org)
 - 📧 brandonheller62@gmail.com
