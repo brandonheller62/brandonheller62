@@ -17,8 +17,7 @@ patients at Mount Sinai Comprehensive Cancer Center. Eight years and **1,000+ ba
 later, it's still running and still evolving, and it became deeply personal when my
 grandmother and mom went through their own treatment.
 
-I run it end to end, on my own: I built and maintain the website, shaped the brand, and —
-the part I'm proudest of as a future data scientist — I survey patients and analyze their
+I run it end to end, on my own: I built and maintain the website, shaped the brand, and I survey patients and analyze their
 feedback (now through a [live analytics dashboard](https://github.com/brandonheller62/ccb-survey-dashboard)
 I built and embedded on our site) to decide what actually goes in each basket. It's where I first learned to build
 software and to let data guide a decision, years before I had names for either. The AI
