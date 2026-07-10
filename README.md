@@ -10,7 +10,7 @@ My focus areas: **AI/ML in education and Data Science**, with an eye toward stud
 
 ### Beyond code
 
-Long before I built apps, I was building things to help people. In 2018, as an
+Long before I wrote software, I was building things to help people. In 2018, as an
 elementary schooler, I founded **[Cancer Care Baskets](https://cancercarebaskets.org)**
 in memory of my great-grandmother — curating comfort care baskets for breast cancer
 patients at Mount Sinai Comprehensive Cancer Center. Eight years and **1,000+ baskets**
