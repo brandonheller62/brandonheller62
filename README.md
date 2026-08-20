@@ -12,7 +12,7 @@ My focus areas: **AI/ML and Data Science**, with an eye toward studying Data Sci
 
 Long before I wrote software, I was building things to help people. In 2018, as an
 elementary schooler, I founded **[Cancer Care Baskets](https://cancercarebaskets.org)**
-in memory of my great-grandmother — curating comfort care baskets for breast cancer
+in memory of my great-grandmother, curating comfort care baskets for breast cancer
 patients at Mount Sinai Comprehensive Cancer Center. Eight years and **1,000+ baskets**
 later, it's still running and still evolving, and it became deeply personal when my
 grandmother and mom went through their own treatment.
@@ -28,7 +28,7 @@ build something that helps. *Comfort & hope, one basket at a time.*
 
 ### What I'm working on right now
 
-- Running and improving **Ransom Tutor** in production — a retrieval-augmented Socratic
+- Running and improving **Ransom Tutor** in production, a retrieval-augmented Socratic
   tutor used for real coursework, where the hard part is keeping answers *grounded* in
   course material rather than confidently wrong.
 - Extending **Calculus Coach** with richer problem-solving and adaptive practice for
