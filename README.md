@@ -42,8 +42,8 @@ build something that helps. *Comfort & hope, one basket at a time.*
 ### Featured projects
 
 #### [Ransom Tutor](https://github.com/brandonheller62/ransom-tutor) · [Live demo →](https://ransomtutor.vercel.app)
-An AI Socratic tutor for two real high-school courses — Advanced Physics (Mechanics) and
-Applied Data Science. Instead of giving away answers, it guides students with hints and
+An AI Socratic tutor for five real high-school courses — Advanced Physics (Mechanics), 
+Applied Data Science, Quantitative Finance and AI, Advanced Machine Learning, and Digital Narrative. Instead of giving away answers, it guides students with hints and
 questions, and every explanation is **grounded in the actual course syllabi** using
 retrieval-augmented generation (RAG), so it stays accurate to what's being taught.
 
