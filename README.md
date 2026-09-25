@@ -13,7 +13,7 @@ My focus areas: **AI/ML and Data Science**, with an eye toward studying Data Sci
 Long before I wrote software, I was building things to help people. In 2018, as an
 elementary schooler, I founded **[Cancer Care Baskets](https://cancercarebaskets.org)**
 in memory of my great-grandmother, curating comfort care baskets for breast cancer
-patients at Mount Sinai Comprehensive Cancer Center. Eight years and **1,000+ baskets**
+patients at Mount Sinai Comprehensive Cancer Center. Eight years and **1,500+ baskets**
 later, it's still running and still evolving, and it became deeply personal when my
 grandmother and mom went through their own treatment.
 
